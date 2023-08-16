@@ -1,0 +1,100 @@
+/* Định dạng footer chung */
+body {
+    padding: 0px;
+}
+
+footer {
+    background-color: #333;
+    padding: 40px 60px 20px 60px;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    border-top: 1px solid white;
+    margin-top: 1px;
+}
+
+/* Định dạng tiêu đề h3 trong footer */
+footer h3 {
+    font-size: 16px;
+    color: white;
+}
+
+/* Định dạng đường dẫn trong footer */
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Định dạng các cột trong footer */
+.foot-columns {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.cols-1,
+.cols-2,
+.cols-3,
+.cols-4 {
+    flex-basis: 25%;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Định dạng mẹo các cột trong footer */
+.cols-1 p,
+.cols-2 p,
+.cols-3 p,
+.cols-4 p {
+    margin: 5px 0;
+}
+
+.mb-3 {
+    padding: 10px 0px;
+}
+
+.form-control {
+    background: #333;
+    border: none;
+}
+
+/* Định dạng liên kết mạng xã hội trong footer */
+footer span a {
+    margin-right: 10px;
+}
+
+.foot-columns li {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.submit-btn {
+    border: 1px solid white;
+    background: #333;
+    color: white;
+    padding: 10px;
+}
+
+.container13 input[type="text"i] {
+    color: white;
+    padding: 1px 2px;
+    border-bottom: 1px solid white;
+}
+
+.container13 input[type="email"i] {
+    color: white;
+    padding: 1px 2px;
+    border-bottom: 1px solid white;
+}
+
+.nitro-offscreen ::placeholder {
+    color: white;
+}
+
+.widget p {
+    margin: 15px 0px 5px 0px;
+}
