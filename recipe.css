@@ -1,0 +1,112 @@
+.container6 .bar {
+    width: 1px;
+    height: 189rem;
+    background-color: black;
+    margin-left: 40px;
+    margin-right: 20px;
+    color: rgb(68, 66, 41);
+    box-sizing: border-box;
+}
+
+.container6 {
+    display: flex;
+    box-sizing: border-box;
+    margin-top: 5%;
+}
+
+.container6 .alltext .textimg {
+    display: flex;
+    box-sizing: border-box;
+    margin-bottom: 70px;
+}
+
+.container6 .alltext .textimg .img-1 {
+    width: 37rem;
+    height: 37rem;
+    margin-left: 80px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .textimg .text .text-1 {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .textimg .text .text-2 {
+    font-family: "MayWilde";
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 35px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .textimg .text .text-3 {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: 600;
+    /*  in độ dày của chữ đậm */
+    color: rgb(68, 66, 41);
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+.container6 .alltext .textimg .text .text-4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.7;
+    /* tăng khoảng cách giữa các dòng */
+    box-sizing: border-box;
+    margin-bottom: 55px;
+}
+
+.container6 .alltext .textimg .text .text-5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgb(39, 34, 34);
+    font-size: 13px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .text-6 {
+    width: 47.5rem;
+    font-family: Verdana;
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+.container6 .alltext .text-7 {
+    font-family: "biko-bold";
+    font-size: 20px;
+    line-height: 1.7;
+    margin-top: 25px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .text-7 .text-71 {
+    font-family: Verdana;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .text-7 .text-72 li {
+    list-style-type: disc;
+}
+
+.container6 .alltext .text-7 .text-73 {
+    font-family: Verdana;
+    font-size: 30px;
+    box-sizing: border-box;
+}
+
+.container6 .alltext .text-7 .text-74 li {
+    list-style-type: decimal;
+}
+
+.container6 strong {
+    color: rgb(48, 46, 29);
+}
